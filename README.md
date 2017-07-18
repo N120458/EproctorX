@@ -81,6 +81,6 @@ Change permissions of torch folder by sudo chmod 777 torch
 
 ## Contributors
 
-- Pranav Dixit (https://github.com/prnvdixit)
 - Siva Donkada (https://github.com/sivadonkada)
+- Pranav Dixit (https://github.com/prnvdixit)
 - Hemanth Katari (https://github.com/hemanthkatari97)
